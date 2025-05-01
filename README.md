@@ -26,7 +26,7 @@ torchaudio==2.4.1
 torchvision==0.19.1
 
 ## Datasets
-15 datasets used in this work are from previous studies ( [scziDesk](https://github.com/theislab/sc_mae/tree/master),  [scMAE](https://github.com/xuebaliang/scziDesk), [scCAEs](https://github.com/gushenweiz/scCAEs) and can be directly downloaded here [Datasets](https://zenodo.org/records/15272789)
+15 datasets used in this work can be directly downloaded here [Datasets](https://zenodo.org/records/15272789)
 
 ## Running Experiments
 + Create two folders named 'data', and 'result' in the project folder. Put dataset file (e.g, Pollen.h) into the 'data' folder. Output of the program are stored in the 'result' folder
