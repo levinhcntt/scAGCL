@@ -11,19 +11,19 @@ scAGLL is a method for clustering scRNA-seq data using adversarial graph contras
 
 
 ## System Requirements
-python==3.12.7
-h5py==3.11.0
-keras==3.6.0
-networkx==3.3
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.5.1
-scipy==1.13.1
-torch==2.4.1
-torch-geometric==2.6.0
-torch-scatter==2.1.2
-torchaudio==2.4.1
-torchvision==0.19.1
+python==3.12.7  
+h5py==3.11.0  
+keras==3.6.0  
+networkx==3.3  
+numpy==1.26.4  
+pandas==2.2.2  
+scikit-learn==1.5.1  
+scipy==1.13.1  
+torch==2.4.1  
+torch-geometric==2.6.0  
+torch-scatter==2.1.2  
+torchaudio==2.4.1  
+torchvision==0.19.1  
 
 ## Datasets
 15 datasets used in this work can be directly downloaded here [Datasets](https://zenodo.org/records/15272789)
