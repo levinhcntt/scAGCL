@@ -1,6 +1,6 @@
 
 # scAGCL: Deep clustering of single-cell RNA-seq using Adversarial Graph Contrastive Learning
-scAGLL is a method for clustering scRNA-seq data using adversarial graph contrastive learning. 
+scAGCL is a method for clustering scRNA-seq data using adversarial graph contrastive learning. 
 
 
 ## Project contents
