@@ -29,9 +29,9 @@ torchvision==0.19.1
 15 datasets used in this work can be directly downloaded here [Datasets](https://zenodo.org/records/15272789)
 
 ## Running Experiments
-+ Create two folders named 'data', and 'result' in the project folder. Put dataset file (e.g, Pollen.h) into the 'data' folder. Output of the program are stored in the 'result' folder
++ Create two folders named 'data', and 'result' in the project folder. Put dataset file (e.g, yan.h5) into the 'data' folder. Output of the program are stored in the 'result' folder
 + Run the program: 
-python scAGCL.py --data_file Pollen.h5 --num_cluster 11 --random_seed 12345
+python scAGCL.py --data_file yan.h5 --num_cluster 7 --random_seed 12345
 
 Options:
 - `---data_file`: Name of dataset file
