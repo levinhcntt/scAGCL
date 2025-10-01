@@ -42,5 +42,9 @@ Options:
 - `--random_seed`: Random seed
 - `--num_epochs`: Number of training epochs
 
+## Publication
+Van Vinh, L., Nhat Quang, T., Hoang Hiep, L., Nhat Phuong, P. and Van Hoai, T., 2025. Deep clustering of single-cell RNA-seq using adversarial graph contrastive learning. Briefings in Bioinformatics, 26(4), p.bbaf423. https://doi.org/10.1093/bib/bbaf423. 
+
 ## Authors
 Author email: vinhlv@hcmute.edu.vn
+
